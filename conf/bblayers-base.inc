@@ -3,7 +3,6 @@
 # Only change if you really know what you are doing.
 #
 BASELAYERS = " \
-  ${OEROOT}/layers/openembedded-core/meta \
   ${OEROOT}/layers/meta-openembedded/meta-oe \
   ${OEROOT}/layers/meta-openembedded/meta-networking \
   ${OEROOT}/layers/meta-openembedded/meta-filesystems \
@@ -13,5 +12,4 @@ BASELAYERS = " \
   ${OEROOT}/layers/meta-clang \
   ${OEROOT}/layers/meta-updater \
   ${OEROOT}/layers/meta-security \
-  ${OEROOT}/layers/meta-lmp/meta-lmp-base \
 "
