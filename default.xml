@@ -17,6 +17,7 @@
   <project name="meta-lmp" path="layers/meta-lmp" remote="fio" revision="851d5e67910a2127c74d49bfb82f2041d4ebd9f9"/>
   <project name="meta-lts-mixins" path="layers/meta-lts-mixins-go" revision="5e3924465987f19655f6f5540f8c5187fa4c7c59"/>
   <project name="meta-lts-mixins" path="layers/meta-lts-mixins-rust" revision="6a13fff3bd2945dee63e9515db11ef69cbe9daec"/>
+  <project name="meta-lts-mixins" path="layers/meta-lts-mixins-u-boot" revision="66ceeebd047d7fdfc8668b300319a76da8ae257d"/>
   <project name="meta-openembedded" path="layers/meta-openembedded" revision="735ae0310870ffce07ce0c55c4f87c20ac161ff9"/>
   <project name="meta-raspberrypi" path="layers/meta-raspberrypi" revision="6df7e028a2b7b2d8cab0745dc0ed2eebc3742a17"/>
   <project name="meta-security" path="layers/meta-security" revision="459d837338ca230254baa2994f870bf6eb9d0139"/>
