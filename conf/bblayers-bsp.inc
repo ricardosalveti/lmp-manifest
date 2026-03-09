@@ -9,6 +9,8 @@ BSPLAYERS = " \
   ${OEROOT}/layers/meta-arm/meta-arm-bsp \
   ${OEROOT}/layers/meta-raspberrypi \
   ${OEROOT}/layers/meta-intel \
+  ${OEROOT}/layers/meta-qcom \
+  ${OEROOT}/layers/meta-qcom-3rdparty \
   ${OEROOT}/layers/meta-yocto/meta-yocto-bsp \
   ${OEROOT}/layers/meta-lmp/meta-lmp-bsp \
 "
